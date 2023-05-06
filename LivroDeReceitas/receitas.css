@@ -1,0 +1,19 @@
+.titulo{
+    color: blue;
+}
+.ingredientes{
+    color: red;
+}
+.preparo{
+    color:darkmagenta;
+}
+#Dica1{
+    color: blueviolet;
+    text-align:left;
+}
+#Dica2{
+    color:crimson;
+}
+#Dica3{
+    color:deeppink;
+}
